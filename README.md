@@ -11,12 +11,12 @@ kept in the place where the transformer jsx content should come.
 
 For example, please refer "comp.jsx" and "comp.js" files in the repository.
 
-**/**
- * @jsx React.DOM
- */
-require('react-with-addons', function () {
-   return /*<transform>template.html</transform>*/;
-}); **
+**/****
+ *** @jsx React.DOM**
+ ***/**
+**require('react-with-addons', function () {**
+   **return /*<transform>template.html</transform>*/;**
+**}); **
 
 will be transformed to
 
