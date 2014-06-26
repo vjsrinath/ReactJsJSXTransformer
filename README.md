@@ -11,17 +11,17 @@ kept in the place where the transformer jsx content should come.
 
 For example, please refer "comp.jsx" and "comp.js" files in the repository.
 
-/**
+**/**
  * @jsx React.DOM
  */
 require('react-with-addons', function () {
    return /*<transform>template.html</transform>*/;
-}); 
+}); **
 
 will be transformed to
 
 
-/**
+**/**
  * @jsx React.DOM
  */
 require('react-with-addons', function() {
@@ -29,7 +29,7 @@ require('react-with-addons', function() {
         React.DOM.span(null),
         React.DOM.div(null)
     );
-});
+});**
 
 
 The transformation is automatically trigger whenever either of the files are changed. (jsx or html)
