@@ -1,8 +1,8 @@
 {
-    "name": "vjsrinath.reactjsjsxtransormer",
+    "name": "vjsrinath.reactjs-jsxtransformer",
     "title": "ReactJs JSX Transformer",
-    "description": "Helper tool to auto compile jsx components to js files",
-    "homepage": "http://nestified.com",
+    "description": "A tool to automatically compile JSX files to Js",
+    "homepage": "https://github.com/techmachine/ReactJsJSXTransformer/",
     "version": "0.1.0",
     "author": "Srinath Janakiraman <vjsrinath@live.com>",
     "contributors": [],
