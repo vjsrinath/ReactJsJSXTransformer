@@ -1,0 +1,14 @@
+{
+  "name": "reactJsJSXTransformer",
+  "version": "0.1.0",
+  "description": "Transforms JSX file to Js",
+  "main": "JSXTransformerDomain.js",
+  "dependencies": {
+    "react-tools": "^0.10.0",
+    "grunt": "^0.4.5",
+    "js-beautify": "^1.5.1"
+  },
+  "devDependencies": {},
+  "author": "Srinath Janakiraman <vjsrinath@live.com>",
+  "license": "MIT"
+}
