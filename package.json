@@ -3,7 +3,7 @@
     "title": "ReactJs JSX Transformer",
     "description": "A tool to automatically compile JSX files to Js",
     "homepage": "https://github.com/techmachine/ReactJsJSXTransformer/",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": "Srinath Janakiraman <vjsrinath@live.com>",
     "contributors": [],
     "license": "MIT",
