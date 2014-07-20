@@ -1,9 +1,9 @@
 {
-    "name": "vjsrinath.reactjs-jsxtransformer",
-    "title": "ReactJs JSX Transformer",
+    "name": "vjsrinath.reactjs-jsxtransformer-new",
+    "title": "New ReactJs JSX Transformer",
     "description": "A tool to automatically compile JSX files to Js",
-    "homepage": "https://github.com/techmachine/ReactJsJSXTransformer/",
-    "version": "0.1.1",
+    "homepage": "https://github.com/vjsrinath/ReactJsJSXTransformer/",
+    "version": "0.1.0",
     "author": "Srinath Janakiraman <vjsrinath@live.com>",
     "contributors": [],
     "license": "MIT",
