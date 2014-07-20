@@ -68,7 +68,7 @@ define(function (require, exports, module) {
             break;
          case 'html':
             dir.getContents(function (err, files) {
-               (!err) && files.forEach(function (file) {
+               (!err) && files && files.forEach(function (file) {
                   var ext = FileUtils.getFileExtension(file.fullPath);
                   (ext == 'jsx') && compileComp(file.fullPath);
                });
