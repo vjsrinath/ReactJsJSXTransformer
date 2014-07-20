@@ -3,7 +3,7 @@ ReactJs-JSXTransformer
 
 An extension for Brackets to manage reactjs components.
 
-**Warning: this extension doesn not provide any extra features other than compiling jsx files to js.**
+**Warning: this extension does not provide any extra features other than compiling jsx files to js.**
 
 The html part of jsx files shall be placed in seperate html file and relative (to jsx file) path  of the same file should be
 kept in the place where the transformed jsx content should come.
